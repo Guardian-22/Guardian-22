@@ -46,4 +46,3 @@ Git, GitHub, Docker (learning)
 
 I enjoy converting “What if we try this?” into actual working ML systems.
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guardian-22" alt="GitHub Streak" /> </p>
